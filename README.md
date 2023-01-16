@@ -1,2 +1,6 @@
-# csu-nvs.github.io
-CSU CS 557 Network Verification &amp; Synthesis
+Syllabi
+=======
+
+| Session                                                      | Instructor                                  |
+|--------------------------------------------------------------|---------------------------------------------|
+| [Spring 2023](https://csu-nvs.github.io/s23-syllabus/)   | [Jedidiah McClurg](https://jrmcclurg.com) |
